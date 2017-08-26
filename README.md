@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/sudomoose/PTSICPPAE.png?label=ready&title=Ready)](https://waffle.io/sudomoose/PTSICPPAE?utm_source=badge)
 # PTSICPPAE
 ## P(ossibly) T(he) S(mallest) C P(lus) P(lus) A(pp) E(ver)
 [![Build Status](https://travis-ci.org/sudomoose/PTSICPPAE.svg?branch=master)](https://travis-ci.org/sudomoose/PTSICPPAE)
